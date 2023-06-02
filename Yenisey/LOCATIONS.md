@@ -2,11 +2,11 @@
 
 ## Верхний Острог
 
-[img](krasnojarskij-ostrog-xvii-vek.-gravjura.jpg)
+![img](krasnojarskij-ostrog-xvii-vek.-gravjura.jpg)
 
-[img](maket-krasnojarskogo-ostroga-v-kkm.jpg)
+![img](maket-krasnojarskogo-ostroga-v-kkm.jpg)
 
-[img](./Krasnoyarsk_by_Witsen_1692.jpg)
+![img](./Krasnoyarsk_by_Witsen_1692.jpg)
 
 ### Церковь
 
@@ -26,17 +26,17 @@
 
 ### Трактир
 
-Можно поесть, поспать
+Можно поесть, поспать, послушать бардов
 
 ### Ионесская купеческая гильдия
 
 ### Дом Прокопьевича
 
-### Дом Кузнецова
+### Дом Кузнецовых
 
-Лавка оружейника
+Лавка оружейника и кузня
 
-### Кузня
+### Дом Басилова (До этого пустующий)
 
 ## Часовня
 
@@ -87,6 +87,8 @@
 ## Столбисткий посёлок
 
 ## Кратер
+
+Северное сияние
 
 ---
 
